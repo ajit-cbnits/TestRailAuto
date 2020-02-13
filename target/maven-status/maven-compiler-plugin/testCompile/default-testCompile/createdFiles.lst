@@ -1,0 +1,10 @@
+Utills\TestListener.class
+Utills\ExtentManager.class
+TestCases\PageTittleTest.class
+TestBases\TestCasesBase.class
+ConfigReader\ReadConfig.class
+Utills\CommonAction.class
+Utills\ExtentTestManager.class
+FrameworkTest\TestFrameworkMethodsImplements.class
+ObjectRepoReader\ObjectMap.class
+TestPages\BankHomePage.class
